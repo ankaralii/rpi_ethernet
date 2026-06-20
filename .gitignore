@@ -1,0 +1,7 @@
+*.exe
+*.out
+*.o
+pi_client
+win_server
+compile_error.txt
+.vscode/
